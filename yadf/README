@@ -1,0 +1,7 @@
+YaDF - Yet another disk space usage 
+
+* yadf.py - library
+  Returns  both block and inode disk space usage
+
+* pydf.py - example script
+  Usage: ./pydf.py [--max | --json ]
