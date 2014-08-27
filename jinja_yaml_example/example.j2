@@ -1,0 +1,6 @@
+My name is {{ name }}
+Value: {{ value }}
+{{ proc }}% of {{ value }}: {{ (proc*value/100)|int }}
+{% for i in numseq -%}
+- {{ i }} {{ numseq|random }}
+{% endfor %}

@@ -1,0 +1,9 @@
+name: bsydor
+numseq:
+  - 0
+  - 2
+  - 6
+  - 10
+  - 100
+value: 1000
+proc: 85
